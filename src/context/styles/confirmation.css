@@ -1,0 +1,24 @@
+.blurBG.confirm {
+    z-index: 1000004 !important;
+}
+
+.confirmation {
+    max-width: 450px;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    z-index: 99;
+}
+
+.btns-div {
+    margin-top: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.conf-btn {
+    width: 90px;
+    margin: 0 10px;
+}

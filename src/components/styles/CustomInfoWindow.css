@@ -1,0 +1,57 @@
+.infoBox {
+    max-width: 350px !important;
+    max-height: 800px !important;
+    cursor: default;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: -263;
+}
+.info_box_custom {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background-color: white ;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 
+    5px 0px 5px rgba(0, 0, 0, 0.388),
+    -5px 5px 5px rgba(0, 0, 0, 0.388); */
+    padding: 12px !important;
+    overflow: auto;
+    z-index: 999 !important;
+    overflow: visible !important;
+    font-family: "Rubik", "Cairo", "Helvetica Neue", Helvetica !important;
+}
+
+.info_box_custom > b {
+    font-size: 15px;
+    font-weight: 900;
+    padding-bottom: 5px;
+}
+
+.copytoClip_btn {
+    margin: 10px !important;
+    padding: 5px !important;
+    font-size: 13px !important;
+}
+.copied_success {
+    width: 150px;
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute !important;
+    top: 10px;
+    right: 10px;
+    z-index: 9999;
+}
+
+.delete_bez {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    font-size: 20px;
+    color: red;
+    cursor: pointer;
+}

@@ -1,0 +1,13 @@
+.graph_containers {
+    display: flex;
+}
+.chart_graph {
+    width: max(350px, 50%) !important;
+    height: 300px;
+    /* height: 300px !important; */
+}
+
+.chart_graph > * {
+    width: 100% !important;
+    height: 100% !important;
+}
