@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/nfc-maker/static/css/main.7d1fbcbd.css",
-    "main.js": "/nfc-maker/static/js/main.5c6c5694.js",
+    "main.js": "/nfc-maker/static/js/main.0c6b43ef.js",
     "static/js/787.cbf78941.chunk.js": "/nfc-maker/static/js/787.cbf78941.chunk.js",
     "static/media/Rubik-Regular.ttf": "/nfc-maker/static/media/Rubik-Regular.55fa11cdc8b9a3ee842f.ttf",
     "static/media/Cairo-Regular.ttf": "/nfc-maker/static/media/Cairo-Regular.808e3fbf5cb27d719d6d.ttf",
     "service-worker.js": "/nfc-maker/service-worker.js",
     "index.html": "/nfc-maker/index.html",
     "main.7d1fbcbd.css.map": "/nfc-maker/static/css/main.7d1fbcbd.css.map",
-    "main.5c6c5694.js.map": "/nfc-maker/static/js/main.5c6c5694.js.map",
+    "main.0c6b43ef.js.map": "/nfc-maker/static/js/main.0c6b43ef.js.map",
     "787.cbf78941.chunk.js.map": "/nfc-maker/static/js/787.cbf78941.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d1fbcbd.css",
-    "static/js/main.5c6c5694.js"
+    "static/js/main.0c6b43ef.js"
   ]
 }
