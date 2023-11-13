@@ -1,6 +1,6 @@
 {
-    "short_name": "santom",
-    "name": "santom tech",
+    "short_name": "Santom",
+    "name": "Santom Tech",
     "icons": [
         {
             "src": "/icons/apple-touch-icon-114x114.png",
@@ -21,7 +21,7 @@
             "purpose": "maskable any"
         }
     ],
-    "start_url": "./",
+    "start_url": "https://khalid-8.github.io/nfc-maker",
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#ffffff"

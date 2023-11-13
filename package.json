@@ -2,7 +2,7 @@
     "name": "nfc-url-maker",
     "version": "0.1.0",
     "private": true,
-    "homepage": "http://3c65dd1f04d1.ngrok.app",
+    "homepage": "https://khalid-8.github.io/nfc-maker/",
     "dependencies": {
         "@prisma/client": "^5.5.2",
         "@react-google-maps/api": "^2.19.2",
@@ -52,5 +52,8 @@
             "last 1 firefox version",
             "last 1 safari version"
         ]
+    },
+    "devDependencies": {
+        "gh-pages": "^6.0.0"
     }
 }
